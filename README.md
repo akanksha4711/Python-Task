@@ -9,3 +9,6 @@ I used bs4 because it is beginner freindly and given the time constrains seemed 
 
 The main challenge I faced during development was scaling the program to run on larger data set.
 I still need to improve the number of urls that can be processed. At present the programs can scrape only a few urls at a time. I had to create the .json output file by rerunning the code multiple times. For some reason it does not scrape data from all valid urls in a single run for larger input data.
+
+Running the program
+- An empty 'result.json' file must be present in the same directory when running 'my-web-s.py' for the first time
