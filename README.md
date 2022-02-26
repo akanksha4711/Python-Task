@@ -17,3 +17,7 @@ I still need to improve the number of urls that can be processed. At present the
 
 Running the program
 - An empty 'result.json' file must be present in the same directory when running 'my-web-s.py' for the first time
+
+Results
+It takes 5-6 minutes to run the program on 1000 urls.
+There are 42 product's data in the result.json
